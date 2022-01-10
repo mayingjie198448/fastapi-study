@@ -176,3 +176,5 @@ instance/
 
 # pycharm
 /.idea/
+.DS_Store
+
